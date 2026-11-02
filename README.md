@@ -1,1 +1,1 @@
-# Okos-f-jl-rendszerez-Smart-file-organizer
+# Okos fájl-rendszerező / Smart fileorganizer
